@@ -2,8 +2,11 @@
 -DOCTYPES tell browsers which version of HTML you are using.
 * we use < !-- -- > to add a comment (will not be visible in the user's)
 (To remained myself why I do that or to tell my team ) 
+
 *ID Attribute*: It is used to uniquely identify that element from other elements on the page. Also known as a global attribute because it can be used on any element.
-There are two type of elements Block and Inline:
+
+*There are two type of elements Block and Inline:
+
 - Block Elements : elements appear to start on a new line in the browser window. Examples :
 < h1 >, < p >, < ul >, and < li >.
 - Inline Elements : elements appear to continue on the same line as their neighbouring elements. Examples :
@@ -22,14 +25,14 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 
 We can use<header> and <footer> appears at the top or bottom of every page on the site.
 
-* <nav> :used to contain the major navigational blocks on the site such as the primary site navigation.
+* < nav > :used to contain the major navigational blocks on the site such as the primary site navigation.
 
-* <article>: acts as a container for any section of a page that could stand alone and potentially be syndicated.
+* < article>: acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
-* <aside> :we use it to depending on whether it is inside an element or not.
+* < aside > :we use it to depending on whether it is inside an element or not.
 * If it used inside an element: it should contain information that is related to the article but not essential to its overall meaning
 * If it used outside of an element: it acts as a container for content that is related to the entire page
-* <section> :related content together and typically each section would have its own heading.
+* < section > :related content together and typically each section would have its own heading.
 Html5 helping older browsers that do not understand HTML5 .
 
 
