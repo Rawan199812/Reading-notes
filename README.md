@@ -28,6 +28,7 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 # Code 201 Reading Notes
 
 | Read This       |      Link               |
+|-----------------|-------------------------|
 |  class-01       |  [class-01](class-01)   |    
 |                 |                         |
 |                 |                         |

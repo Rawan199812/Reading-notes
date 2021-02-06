@@ -75,19 +75,16 @@ We add the comment between these characters: <! --  -->
 ### ID Attribute and Class Attribute
 
 
-|        ID Attribute              |                Class Attribute           |
-|----------------------------------|------------------------------------------|
-|Every HTML element can carry the  |Every HTML element can carry the class    |
-|id attribute                      |  attribute                               |
-|----------------------------------|------------------------------------------|
-|Is used to uniquely identify that |Is used to identify several elements as   |
-|element from other elements on the|being different from the other            |
-|elements on the page.             |elements on the page.                     |
-|----------------------------------|------------------------------------------|
-|no two elements on the same page  |The class attribute on any element can    |
-|have the same value for their id  |share the same value.                     |
-|attributes                        |                                          |
-|----------------------------------|------------------------------------------|
+|                ID Attribute                         |                       Class Attribute                            |
+|-----------------------------------------------------|------------------------------------------------------------------|
+|Every HTML element can carry the id attribute        | Every HTML element can carry the class attribute                 |
+|-----------------------------------------------------|------------------------------------------------------------------|
+|Is used to uniquely identify that  element from other|Is used to identify several elements as                           |
+| elements on the page.                               |being different from the other elements on the page.              |
+|-----------------------------------------------------|------------------------------------------------------------------|
+|no two elements on the same page have the same       |The class attribute on any element can share the same             |
+| value for their id attributes                       |value.                                                            |
+|-----------------------------------------------------|------------------------------------------------------------------|
 
 
 
@@ -146,7 +143,7 @@ we applied to an iframe where scrollbars are not desired.
 - There are elements that allow us to divide up the parts of a page and make the code easier to follow. The names of these elements indicate the kind of content in them.
 
 
-|  ##Element           |                       ##Used for                       |
+|   *Element*          |                        *Used for*                      |
 |----------------------|--------------------------------------------------------|
 |                      |The main header or footer that appears at the top or    || < header > < footer >|bottom of every page on the site and for an individual  ||                      |or within the page.                                     |
 |----------------------|--------------------------------------------------------|
@@ -207,7 +204,7 @@ The flowcharts show the paths between each step.
 
 ***Properties:*** describe characteristics of the current web page ( characteristics of an object). Each one has a name and a value will tell us something about each individual instance of the object.
 
-***Event ***
+***Event***
 
 Programs are designed to do different things when users interact with the computer in different ways.( such as a user clicking or tapping on an element.)
 
@@ -224,7 +221,7 @@ Programs are designed to do different things when users interact with the comput
 *CSS:* Presentation Layer for(. css files)
 
 *JavaScript:* Behavior Layer for ( .js files)
-![img](http://qnimate.com/wp-content/uploads/2014/05/script-tag.jpg)
+
 
 ***How to write a script?***
 
