@@ -13,23 +13,27 @@
 |   word        | meaning                                               |
 |---------------|-------------------------------------------------------|
 |    DNS        |stands for Domain Name System.servers tell the browser |
-|               | how to   find the website                             |
+|               |how to find the website                                |
 |---------------|-------------------------------------------------------|
-| ISP           |Internet Service Provider                              |
+|     ISP       |Internet Service Provider                              |
 |---------------|-------------------------------------------------------|
-|IP address     |a number of up to 12 digits separated by periods       |
+|   IP address  |a number of up to 12 digits separated by periods       |
 |---------------|-------------------------------------------------------|
 
+
 - Every device connected to the web has a unique IP address.
+
 ## Chapter 1: Structure
+
 - When we add structure to a Word document to make it easier to understand. We use structure in the same way when writing web pages.
 - To describe the structure of a web page, we add code to the words we want to appear on the page. (Like in HTML we use < h1 >, < p >..tags.)
 
 ***How HTML Uses Elements to Describe the Structure of Pages?***
-< h1 > we use for Main Heading.
-< p > paragraph we use it like introduction to the rest of the page.
-< h2 > we use for Sub-Heading.
-< p > another paragraph we use to help follow the structure of what is being written. 
+
+- < h1 > we use for Main Heading.
+- < p > paragraph we use it like introduction to the rest of the page.
+- < h2 > we use for Sub-Heading.
+- < p > another paragraph we use to help follow the structure of what is being written. 
 
 - Tags tell us something about the information that located between the opening and closing tags.Example: < html > tag tell us that anything between it and </ html > tag is HTML code. 
 
@@ -69,14 +73,22 @@ We add the comment between these characters: <! --  -->
 - Sometimes we use comments to stop that code from being displayed in the browser. For example if I want to test the code without a specific line and I don’t want to delete it I make it a comment.
 
 ### ID Attribute and Class Attribute
-| ID Attribute                    |                   Class Attribute           | 
-|:--------------------------------|--------------------------------------------:|
-| Every HTML element can carry the id attribute| | 
-| column     |      column |   
-| will       |        will |   
-| be         |          be |    
-| left       |       right |  
-| aligned    |     aligned | 
+
+
+|        ID Attribute              |                Class Attribute           |
+|----------------------------------|------------------------------------------|
+|Every HTML element can carry the  |Every HTML element can carry the class    |
+|id attribute                      |  attribute                               |
+|----------------------------------|------------------------------------------|
+|Is used to uniquely identify that |Is used to identify several elements as   |
+|element from other elements on the|being different from the other            |
+|elements on the page.             |elements on the page.                     |
+|----------------------------------|------------------------------------------|
+|no two elements on the same page  |The class attribute on any element can    |
+|have the same value for their id  |share the same value.                     |
+|attributes                        |                                          |
+|----------------------------------|------------------------------------------|
+
 
 
 ***Inline elements and Block elements:***
@@ -133,6 +145,30 @@ we applied to an iframe where scrollbars are not desired.
 
 - There are elements that allow us to divide up the parts of a page and make the code easier to follow. The names of these elements indicate the kind of content in them.
 
+
+|  ##Element           |                       ##Used for                       |
+|----------------------|--------------------------------------------------------|
+|                      |The main header or footer that appears at the top or    || < header > < footer >|bottom of every page on the site and for an individual  ||                      |or within the page.                                     |
+|----------------------|--------------------------------------------------------|
+|                      |To contain the major navigational blocks on the site and||  Navigation < nav >  |some programmers use it for the links that appear at the||                      |bottom of every page.                                   |
+|----------------------|--------------------------------------------------------|
+|                      |A container for any section of a page that could stand  ||      < article >     |alone and potentially be syndicated and can be nested   | |                      |inside each other.                                      |
+|----------------------|--------------------------------------------------------|
+|                      |If it is inside an < article > element, it contain      | |                      |information that is related to the article but not      ||        < aside >     | essential to its overall meaning.                      |
+|                      | If it is outside of < article >element, it acts as a   ||                      |container for content that is related to the entire page|
+|----------------------|--------------------------------------------------------|
+|                      |Groups related items together. It may contain several   ||      < section >     |distinct elements that have a common theme or purpose.  |
+|                      |And sometimes to split the article up into separate     |
+|                      |sections.                                               |
+|----------------------|--------------------------------------------------------|
+|     < hgroup >       |To group together a set of < h1> through< h6> |elements | |                      |so that they are treated as one single heading.         |
+|----------------------|--------------------------------------------------------|
+|     < figure >       |To contain any content that is referenced from the main |
+|                      |flow of an article(like Images , Videos , Graphs..)     |
+|----------------------|--------------------------------------------------------|
+
+ 
+
 - Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements
 Chapter18:Process & Design
 
@@ -171,7 +207,7 @@ The flowcharts show the paths between each step.
 
 ***Properties:*** describe characteristics of the current web page ( characteristics of an object). Each one has a name and a value will tell us something about each individual instance of the object.
 
-##### Event 
+***Event ***
 
 Programs are designed to do different things when users interact with the computer in different ways.( such as a user clicking or tapping on an element.)
 
@@ -181,7 +217,7 @@ Programs are designed to do different things when users interact with the comput
 
 ***How JavaScript will fit together with the HTML and CSS in web pages?***
 
-###### Each language forms a separate layer with a different purpose:
+### Each language forms a separate layer with a different purpose:
 
 *HTML:* Content Layer for( . html files)
 
