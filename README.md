@@ -6,14 +6,14 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 
 
 # Code 102 Reading Notes
-| Read This       |      Link                       |
-|   growth mindest|  [growthmindest](growth mindest)|    
-|    read1        |  [read1](read1)                 |
-|    read2        |  [read2](read2)                 |
-|    read3        |  [read3](read3)                 |
-|    read4        |  [read4](read4)                 |
-|    read5        |  [read5](read5)                 |
-|    read6        |  [read6](read6)                 |
+| Read This        |      Link                        |
+|   growth mindest |  [growthmindest](growth mindest) |    
+|    read1         |  [read1](read1)                  |
+|    read2         |  [read2](read2)                  |
+|    read3         |  [read3](read3)                  |
+|    read4         |  [read4](read4)                  |
+|    read5         |  [read5](read5)                  |
+|    read6         |  [read6](read6)                  |
 
 # Code 201 Reading Notes
 
