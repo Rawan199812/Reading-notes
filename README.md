@@ -7,6 +7,8 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 
 # Code 102 Reading Notes
 
+
+
 | Read This        |      Link                        |
 |------------------|----------------------------------|
 |   growth mindest |  [growthmindest](growth mindest) |
@@ -37,7 +39,7 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 | Read This       |      Link               |
 |-----------------|-------------------------|
 |  class-01       |  [class-01](class-01)   |    
-|  class-02       |  [class-02](class.02)   |
+|  class-02       | [class-02](class.02.md) |
 |                 |                         |
 |                 |                         |
 |                 |                         |
