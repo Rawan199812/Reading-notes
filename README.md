@@ -1,17 +1,15 @@
-# Reading-notes
-My name is Rawan Abu Yasein.I am 22 years old.
-I speak English, French, Turkish and Arabic
-I studied French Literature at the University of Jordan 2016-2020
-my github account link : [Rawan199812](http://github.com/Rawan199812)
+# Reading Notes
+
+A collection of all my reading notes from reading assignments, it will be updated daily .
 
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 
 
 |     Read         |      Link                            |
 |------------------|--------------------------------------|
-|   growth mindest |[growthmindest](102/growthmindest.md) |
+|   Growth Mindest |[growthmindest](102/growthmindest.md) |
 |------------------|--------------------------------------|
 |    read1         |  [read1](102/read1.md)               |
 |------------------|--------------------------------------|
@@ -28,15 +26,10 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 
 
 
+## Code 201 - Foundations of Software Development
 
 
-
-## Code 201 Reading Notes
-
-
-
-
-| Read            |      Link               |
+|     Read        |          Link           |
 |-----------------|-------------------------|
 |  class-01       | [class-01](201/class-01)|    
 |  class-02       | [class-02](201/class-02)|
@@ -53,3 +46,29 @@ my github account link : [Rawan199812](http://github.com/Rawan199812)
 |  class-13       | [class-13](201/class-13)|
 |  class-14       | [class-14](201/class-14)|
 |  class-15       | [class-15](201/class-15)|
+
+
+## Code 301 - Intermediate Software Development
+
+|    Read         |         Link            |
+|-----------------|-------------------------|
+|  class-01       | [class-01](301/class-01)|    
+|  class-02       | [class-02](301/class-02)|
+|  class-03       | [class-03](301/class-03)|
+|  class-04       | [class-04](301/class-04)|
+|  class-05       | [class-05](301/class-05)|
+|  class-06       | [class-06](301/class-06)|
+|  class-07       | [class-07](301/class-07)|
+|  class-08       | [class-08](301/class-08)|
+|  class-09       | [class-09](301/class-09)|    
+|  class-10       | [class-10](301/class-10)|
+|  class-11       | [class-11](301/class-11)|
+|  class-12       | [class-12](301/class-12)|
+|  class-13       | [class-13](301/class-13)|
+|  class-14       | [class-14](301/class-14)|
+|  class-15       | [class-15](301/class-15)|
+
+
+
+
+
