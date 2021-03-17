@@ -50,23 +50,23 @@ A collection of all my reading notes from reading assignments, it will be update
 
 ## Code 301 - Intermediate Software Development
 
-|    Read         |         Link            |
-|-----------------|-------------------------|
-|  class-01       | [class-01](301/class-01)|    
-|  class-02       | [class-02](301/class-02)|
-|  class-03       | [class-03](301/class-03)|
-|  class-04       | [class-04](301/class-04)|
-|  class-05       | [class-05](301/class-05)|
-|  class-06       | [class-06](301/class-06)|
-|  class-07       | [class-07](301/class-07)|
-|  class-08       | [class-08](301/class-08)|
-|  class-09       | [class-09](301/class-09)|    
-|  class-10       | [class-10](301/class-10)|
-|  class-11       | [class-11](301/class-11)|
-|  class-12       | [class-12](301/class-12)|
-|  class-13       | [class-13](301/class-13)|
-|  class-14       | [class-14](301/class-14)|
-|  class-15       | [class-15](301/class-15)|
+|                    Topic                     |         Link            |
+|----------------------------------------------|-------------------------|
+|      RESPONSIVE WEB DESIGN and FLOATS        | [class-01](301/class-01)|    
+|                  class-02                    | [class-02](301/class-02)|
+|                  class-03                    | [class-03](301/class-03)|
+|                  class-04                    | [class-04](301/class-04)|
+|                  class-05                    | [class-05](301/class-05)|
+|                  class-06                    | [class-06](301/class-06)|
+|                  class-07                    | [class-07](301/class-07)|
+|                  class-08                    | [class-08](301/class-08)|
+|                  class-09                    | [class-09](301/class-09)|    
+|                  class-10                    | [class-10](301/class-10)|
+|                  class-11                    | [class-11](301/class-11)|
+|                  class-12                    | [class-12](301/class-12)|
+|                  class-13                    | [class-13](301/class-13)|
+|                  class-14                    | [class-14](301/class-14)|
+|                  class-15                    | [class-15](301/class-15)|
 
 
 
