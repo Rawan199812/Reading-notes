@@ -54,7 +54,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |----------------------------------------------|-------------------------|
 |      RESPONSIVE WEB DESIGN and FLOATS        | [class-01](301/class-01)|    
 |       jQuery, Events, and The DOM            | [class-02](301/class-02)|
-|                  class-03                    | [class-03](301/class-03)|
+|            MUSTACHE and FLEXBOX              | [class-03](301/class-03)|
 |                  class-04                    | [class-04](301/class-04)|
 |                  class-05                    | [class-05](301/class-05)|
 |                  class-06                    | [class-06](301/class-06)|
