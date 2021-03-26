@@ -57,7 +57,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |            MUSTACHE and FLEXBOX              | [class-03](301/class-03)|
 |                  CSS GRID                    | [class-04](301/class-04)|
 |            Heroku Deployment                 | [class-05](301/class-05)|
-|                  class-06                    | [class-06](301/class-06)|
+|                  NODE.JS                     | [class-06](301/class-06)|
 |                  class-07                    | [class-07](301/class-07)|
 |                  class-08                    | [class-08](301/class-08)|
 |                  class-09                    | [class-09](301/class-09)|    
