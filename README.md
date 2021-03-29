@@ -58,7 +58,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                  CSS GRID                    | [class-04](301/class-04)|
 |            Heroku Deployment                 | [class-05](301/class-05)|
 |                  NODE.JS                     | [class-06](301/class-06)|
-|                  class-07                    | [class-07](301/class-07)|
+|              APIs continued                  | [class-07](301/class-07)|
 |                  class-08                    | [class-08](301/class-08)|
 |                  class-09                    | [class-09](301/class-09)|    
 |                  class-10                    | [class-10](301/class-10)|
@@ -67,6 +67,8 @@ A collection of all my reading notes from reading assignments, it will be update
 |                  class-13                    | [class-13](301/class-13)|
 |                  class-14                    | [class-14](301/class-14)|
 |                  class-15                    | [class-15](301/class-15)|
+
+
 
 
 
