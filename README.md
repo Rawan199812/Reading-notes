@@ -59,7 +59,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |            Heroku Deployment                 | [class-05](301/class-05)|
 |                  NODE.JS                     | [class-06](301/class-06)|
 |              APIs continued                  | [class-07](301/class-07)|
-|                  class-08                    | [class-08](301/class-08)|
+|                    SQL                       | [class-08](301/class-08)|
 |                  class-09                    | [class-09](301/class-09)|    
 |                  class-10                    | [class-10](301/class-10)|
 |                  class-11                    | [class-11](301/class-11)|
