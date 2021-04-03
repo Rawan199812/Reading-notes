@@ -62,7 +62,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                    SQL                       | [class-08](301/class-08)|
 |          FUNCTIONAL PROGRAMMING              | [class-09](301/class-09)|    
 |               THE CALL STACK                 | [class-10](301/class-10)|
-|                  class-11                    | [class-11](301/class-11)|
+|                    EJS                       | [class-11](301/class-11)|
 |                  class-12                    | [class-12](301/class-12)|
 |                  class-13                    | [class-13](301/class-13)|
 |                  class-14                    | [class-14](301/class-14)|
