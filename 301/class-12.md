@@ -9,7 +9,7 @@ For Example :
 
 - Ypu cam use the same partials in different page using include function and then add it wherever you need it to be added to.
 
-- We can use that for repititive elements such as header and footer.
+- We can use that for repititive elements such as header and footer..
 
 - we can create partial files inside views/partials/nameOfThing.ejs and that file will contain only the thing that we want to reuse, like a navigation bar for example.
 
