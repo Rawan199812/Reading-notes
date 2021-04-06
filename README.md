@@ -64,7 +64,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |               THE CALL STACK                 | [class-10](301/class-10)|
 |                    EJS                       | [class-11](301/class-11)|
 |                 EJS PARTIALS                 | [class-12](301/class-12)|
-|                  class-13                    | [class-13](301/class-13)|
+|                Update/Delete                 | [class-13](301/class-13)|
 |                  class-14                    | [class-14](301/class-14)|
 |                  class-15                    | [class-15](301/class-15)|
 
