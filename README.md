@@ -80,7 +80,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |         Tests, Python Modules and Packages, Recursion          | [class-02](401/class-02)|
 |                Files in Python, Python Exceptions              | [class-03](401/class-03)|
 |   Classes and Objects,Thinking Recursively in Python,pytest    | [class-04](401/class-04)|
-|                             class-05                           | [class-05](401/class-05)|
+|                           Linked lists                         | [class-05](401/class-05)|
 |                             class-06                           | [class-06](401/class-06)|
 |                             class-07                           | [class-07](401/class-07)|
 |                             class-08                           | [class-08](401/class-08)|
