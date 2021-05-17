@@ -83,7 +83,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                           Linked lists                         | [class-05](401/class-05)|
 |                  Random Module, Risk Analysis                  | [class-06](401/class-06)|
 |                            Python scope                        | [class-07](401/class-07)|
-|                             class-08                           | [class-08](401/class-08)|
+|         Primer on Python Decorators, List Comprehensions       | [class-08](401/class-08)|
 |                             class-09                           | [class-09](401/class-09)|    
 |                             class-10                           | [class-10](401/class-10)|
 |                             class-11                           | [class-11](401/class-11)|
