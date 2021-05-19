@@ -84,8 +84,8 @@ A collection of all my reading notes from reading assignments, it will be update
 |                  Random Module, Risk Analysis                  | [class-06](401/class-06)|
 |                            Python scope                        | [class-07](401/class-07)|
 |         Primer on Python Decorators, List Comprehensions       | [class-08](401/class-08)|
-|                             class-09                           | [class-09](401/class-09)|    
-|                             class-10                           | [class-10](401/class-10)|
+|                          Dunder Methods                        | [class-09](401/class-09)|    
+|                         Stacks and Queues                      | [class-10](401/class-10)|
 |                             class-11                           | [class-11](401/class-11)|
 |                             class-12                           | [class-12](401/class-12)|
 |                             class-13                           | [class-13](401/class-13)|
