@@ -87,7 +87,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                          Dunder Methods                        | [class-09](401/class-09)|    
 |                         Stacks and Queues                      | [class-10](401/class-10)|
 |                     Jupyter Lab,Numpy Arrays                   | [class-11](401/class-11)|
-|                             class-12                           | [class-12](401/class-12)|
+|                              Pandas                            | [class-12](401/class-12)|
 |                             class-13                           | [class-13](401/class-13)|
 |                             class-14                           | [class-14](401/class-14)|
 |                             class-15                           | [class-15](401/class-15)|
