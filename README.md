@@ -90,6 +90,6 @@ A collection of all my reading notes from reading assignments, it will be update
 |                              Pandas                            | [class-12](401/class-12)|
 |                        Linear Regressions                      | [class-13](401/class-13)|
 |                        Data Visualization                      | [class-14](401/class-14)|
-|                             class-15                           | [class-15](401/class-15)|
+|                               Trees                            | [class-15](401/class-15)|
 
 
