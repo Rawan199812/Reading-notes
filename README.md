@@ -89,7 +89,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                     Jupyter Lab,Numpy Arrays                   | [class-11](401/class-11)|
 |                              Pandas                            | [class-12](401/class-12)|
 |                        Linear Regressions                      | [class-13](401/class-13)|
-|                             class-14                           | [class-14](401/class-14)|
+|                        Data Visualization                      | [class-14](401/class-14)|
 |                             class-15                           | [class-15](401/class-15)|
 
 
