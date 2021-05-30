@@ -91,5 +91,6 @@ A collection of all my reading notes from reading assignments, it will be update
 |                        Linear Regressions                      | [class-13](401/class-13)|
 |                        Data Visualization                      | [class-14](401/class-14)|
 |                               Trees                            | [class-15](401/class-15)|
+|                         Machine Learning                       | [class-16](401/class-16)|
 
 
