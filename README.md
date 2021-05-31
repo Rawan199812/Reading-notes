@@ -92,5 +92,6 @@ A collection of all my reading notes from reading assignments, it will be update
 |                        Data Visualization                      | [class-14](401/class-14)|
 |                               Trees                            | [class-15](401/class-15)|
 |                         Machine Learning                       | [class-16](401/class-16)|
+|                           Cryptography                         | [class-17](401/class-17)|
 
 
