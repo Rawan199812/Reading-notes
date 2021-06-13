@@ -95,4 +95,6 @@ A collection of all my reading notes from reading assignments, it will be update
 |                                                                | [class-17](401/class-17)|
 |                           Cryptography                         | [class-18](401/class-18)|
 |                            Automation                          | [class-19](401/class-19)|
+|                             Django                             | [class-20](401/class-20)|
+
 
