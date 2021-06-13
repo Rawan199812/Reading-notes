@@ -1,19 +1,18 @@
-## Django Tutorial Part 9: Working with forms
+## Django Tutorial Part 3: Using models
 
-**HTML Form**
-***A group of one or more fields/widgets on a web page, which can be used to collect information from users for submission to a server.***
-- Forms are a flexible mechanism for collecting user input.
-- Forms are a relatively secure way of sharing data with the server.
+- The definition of the model is independent of the underlying database — you can choose one of several as part of your project settings.
 
-***The role of the server is first to render the initial form state — either containing blank fields or pre-populated with initial values. After the user presses the submit button, the server will receive the form data with values from the web browser and must validate the information.***
+- Models are usually defined in an application's models.py file. They are implemented as subclasses of django.db.models.Model, and can include fields, methods and metadata. The code fragment below shows a "typical" model, named MyModelName: from django.db import models
 
-- For forms that use a POST request to submit information to the server, the most common pattern is for the view to test against the POST request type (if request.method == 'POST':) to identify form validation requests and GET (using an else condition) to identify the initial form creation request. I
 
-**Django provides a number of tools and approaches. The most fundamental is the Form class, which simplifies both generation of form HTML and data cleaning/validation.**
+Inside the model:
+- Fields : A model can have an arbitrary number of fields, of any type — each one represents a column of data that we want to store in one of our database tables. 
 
-- get_object_or_404(): Returns a specified object from a model based on its primary key value, and raises an Http404 exception (not found) if the record does not exist.
-- HttpResponseRedirect: This creates a redirect to a specified URL (HTTP status code 302).
-- reverse(): This generates a URL from a URL configuration name and a set of arguments. It is the Python equivalent of - the url tag that we've been using in our templates.
-- datetime: A Python library for manipulating dates and times.
+- Metadata : is to control the default ordering of records returned when you query the model type. You do this by specifying the match order in a list of field names to the ordering attribute
 
-***Creating and handling forms can be a complicated process! Django makes it much easier by providing programmatic mechanisms to declare, render, and validate forms. Furthermore, Django provides generic form editing views that can do almost all the work to define pages that can create, edit, and delete records associated with a single model instance.***
+- Methods : Minimally, in every model you should define the standard Python class method str() to return a human-readable string for each object. This string is used to represent individual records in the administration site.
+
+## Django Admin
+- Django does a pretty good job of creating a basic admin site using the information from the registered models:
+Each model has a list of individual records, identified by the string created with the model's str() method, and linked to detail views/forms for editing. By default, this view has an action menu at the top that you can use to perform bulk delete operations on records.
+- The model detail record forms for editing and adding records contain all the fields in the model, laid out vertically in their declaration order.
