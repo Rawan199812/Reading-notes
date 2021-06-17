@@ -99,7 +99,7 @@ A collection of all my reading notes from reading assignments, it will be update
 |                          Django Models                         | [class-21](401/class-21)|
 |                      Django CRUD and Forms                     | [class-22](401/class-22)|
 |                       Django Custom User                       | [class-23](401/class-23)|
-|                          Hash Tables                           | [class-23](401/class-23)|
+|                          Hash Tables                           | [class-24](401/class-24)|
 
 
 
