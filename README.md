@@ -102,6 +102,8 @@ A collection of all my reading notes from reading assignments, it will be update
 |                          Hash Tables                           | [class-24](401/class-24)|
 |                   Django REST Framework & Docker               | [class-25](401/class-25)|
 |                       Permissions & Postgresql                 | [class-26](401/class-26)|
+|                         JSON Web Tokens                        | [class-27](401/class-27)|
+
 
 
 
