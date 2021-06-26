@@ -104,6 +104,8 @@ A collection of all my reading notes from reading assignments, it will be update
 |                       Permissions & Postgresql                 | [class-26](401/class-26)|
 |                         JSON Web Tokens                        | [class-27](401/class-27)|
 |                              Graphs                            | [class-29](401/class-29)|
+|                         Whiteboard Advice                      | [class-30](401/class-30)|
+
 
 
 
