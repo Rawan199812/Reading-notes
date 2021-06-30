@@ -107,6 +107,8 @@ A collection of all my reading notes from reading assignments, it will be update
 |                         Whiteboard Advice                      | [class-30](401/class-30)|
 |                              React 1                           | [class-31](401/class-31)|
 |                              React 2                           | [class-32](401/class-32)|
+|                              React 3                           | [class-33](401/class-33)|
+
 
 
 
