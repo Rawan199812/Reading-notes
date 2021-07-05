@@ -109,6 +109,9 @@ A collection of all my reading notes from reading assignments, it will be update
 |                              React 2                           | [class-32](401/class-32)|
 |                              React 3                           | [class-33](401/class-33)|
 |                              React 4                           | [class-34](401/class-34)|
+|                          Ethics in Tech                        | [class-35](401/class-35)|
+|                            Pythonisms                          | [class-36](401/class-36)|
+
 
 
 
